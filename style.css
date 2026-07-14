@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  max-width: 1920px;
+  margin: 0 auto;
+}
+.container {
+  background-color: rgb(4, 1, 56);
+}
+.header-links {
+  display: flex;
+  justify-content: space-around;
+  padding: 10px 0;
+}
+
+.header-links a{
+    margin-right: 20px;
+}
